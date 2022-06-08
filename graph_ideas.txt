@@ -1,0 +1,8 @@
+graph storage of data?
+    +adj list?
+    adj matrix?
+    incidence matrix?
+
+edge storage?
+    object that is a pair of destination and weight?
+    +triple object, source, destination and a weight?
